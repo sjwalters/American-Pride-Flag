@@ -3,6 +3,9 @@
 #fastest speed setting so Tracy draws the flag quickly
 speed(0)
 
+#change the background color to purple
+bgcolor("purple")
+
 #Set Tracy's starting position to the upper left corner of the canvas
 penup()
 setposition(-200,200)
